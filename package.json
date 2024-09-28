@@ -1,0 +1,14 @@
+{
+  "name": "sky",
+  "version": "18.17.0",
+  "description": "one credit",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
